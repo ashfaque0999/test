@@ -1,6 +1,0 @@
-
-{{#user}}
-Name: Md Ashfaque Ahmed
-Skills: HTML, CSS, JS, React.js, Next.js
-Email: ashfaqueahmed0999@gmail.com
-{{/user}}
